@@ -5,8 +5,8 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.5'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
-
 gem 'devise'
+gem 'stock_quote'
 
 gem 'sass-rails', '~> 5.0'
 
